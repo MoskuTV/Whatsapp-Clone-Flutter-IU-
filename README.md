@@ -6,5 +6,6 @@ Presentation of the android application.
 
 
 Postada: I love anime <3 
+
 ![image](https://user-images.githubusercontent.com/73259540/179157734-1e83fcfd-c238-4097-a728-1f8c68fa3828.png)
 
