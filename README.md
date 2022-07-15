@@ -1,16 +1,10 @@
-# whatsapp_application
+Presentation of the android application.
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/73259540/179157798-c0fa6f80-54f4-4539-8528-ba51b2e5676a.png)
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/73259540/179157820-37ca8627-9c3c-43eb-b68c-aadf236fb936.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Postada: I love anime <3 
+![image](https://user-images.githubusercontent.com/73259540/179157734-1e83fcfd-c238-4097-a728-1f8c68fa3828.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
